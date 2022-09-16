@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Закончил на Главе 5, стр.179.">
-      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter5/other_types/other_types.py" afterDir="false" />
+    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Закончил на Главе 5, стр.195.">
+      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter5/other_types/sets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lutz/learning_python/examples/chapter5/numbers_in_action/numbers_in_action.py" beforeDir="false" afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter5/numbers_in_action/numbers_in_action.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lutz/learning_python/examples/chapter5/other_types/other_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter5/other_types/other_types.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <recent name="D:\Projects\PythonWorkouts\lutz\learning_python\exercises\part1\task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.other_types">
+  <component name="RunManager" selected="Python.sets">
     <configuration name="fundamentals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonWorkouts" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="worker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonWorkouts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter4/other" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter5/other_types" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter4/other/worker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter5/other_types/sets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sets" />
         <item itemvalue="Python.other_types" />
         <item itemvalue="Python.numbers_in_action (1)" />
         <item itemvalue="Python.numbers_in_action" />
         <item itemvalue="Python.fundamentals" />
-        <item itemvalue="Python.worker" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663121845639</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Закончил на Главе 5, стр.195.">
+      <created>1663207929370</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663207929370</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,6 +230,7 @@
     <MESSAGE value="Проработал примеры из четвёртой главы." />
     <MESSAGE value="Закончил Главу 4. Остановился на стр. 166." />
     <MESSAGE value="Закончил на Главе 5, стр.179." />
-    <option name="LAST_COMMIT_MESSAGE" value="Закончил на Главе 5, стр.179." />
+    <MESSAGE value="Закончил на Главе 5, стр.195." />
+    <option name="LAST_COMMIT_MESSAGE" value="Закончил на Главе 5, стр.195." />
   </component>
 </project>
