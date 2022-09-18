@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Закончил на Главе 5, стр.202.">
-      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter6/shared_links/shared_links.py" afterDir="false" />
+    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Закончил на Главе 7, стр.226.">
+      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter7/string_methods/changing_strings_part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter7/string_methods/other_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter7/strings_in_action/indexing_and_slicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter7/strings_in_action/transformation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +52,8 @@
       <recent name="D:\Projects\PythonWorkouts\lutz\learning_python\exercises\part1\task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.shared_links">
-    <configuration name="numbers_in_action (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.other_methods">
+    <configuration name="changing_strings_part2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonWorkouts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter5/numbers_in_action" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter7/string_methods" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter5/numbers_in_action/numbers_in_action.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter7/string_methods/changing_strings_part2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numbers_in_action" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="indexing_and_slicing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonWorkouts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter5/numbers_in_action" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter7/strings_in_action" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Projects\PythonWorkouts\lutz\learning_python\examples\chapter5\numbers_in_action\numbers_in_action.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter7/strings_in_action/indexing_and_slicing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="other_types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="other_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonWorkouts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,32 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter5/other_types" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter7/string_methods" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter5/other_types/other_types.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonWorkouts" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter5/other_types" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter5/other_types/sets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter7/string_methods/other_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,13 +137,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="transformation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonWorkouts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter7/strings_in_action" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter7/strings_in_action/transformation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.other_methods" />
+        <item itemvalue="Python.changing_strings_part2" />
+        <item itemvalue="Python.transformation" />
+        <item itemvalue="Python.indexing_and_slicing" />
         <item itemvalue="Python.shared_links" />
-        <item itemvalue="Python.sets" />
-        <item itemvalue="Python.other_types" />
-        <item itemvalue="Python.numbers_in_action (1)" />
-        <item itemvalue="Python.numbers_in_action" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663294444944</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Закончил на Главе 7, стр.226.">
+      <created>1663380199244</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663380199244</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +248,7 @@
     <MESSAGE value="Закончил на Главе 5, стр.179." />
     <MESSAGE value="Закончил на Главе 5, стр.195." />
     <MESSAGE value="Закончил на Главе 5, стр.202." />
-    <option name="LAST_COMMIT_MESSAGE" value="Закончил на Главе 5, стр.202." />
+    <MESSAGE value="Закончил на Главе 7, стр.226." />
+    <option name="LAST_COMMIT_MESSAGE" value="Закончил на Главе 7, стр.226." />
   </component>
 </project>
