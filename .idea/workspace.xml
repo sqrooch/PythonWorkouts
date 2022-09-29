@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Закончил на Главе 11, стр.375.">
-      <change afterPath="$PROJECT_DIR$/codewars/2022/0928/valid_braces.py" afterDir="false" />
+    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Функция, которая принимает строку фигурных скобок и определяет, допустим ли порядок этой комбинации скобок.">
+      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter12/operator_if/multiple_branches.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,7 @@
       <recent name="D:\Projects\PythonWorkouts\lutz\learning_python\exercises\part1\task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.valid_braces">
+  <component name="RunManager" selected="Python.multiple_branches">
     <configuration name="files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonWorkouts" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="operator_del" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="multiple_branches" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonWorkouts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/exercises/part2/task3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter12/operator_if" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/exercises/part2/task3/operator_del.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter12/operator_if/multiple_branches.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.multiple_branches" />
         <item itemvalue="Python.valid_braces" />
         <item itemvalue="Python.files" />
         <item itemvalue="Python.immutable_types" />
         <item itemvalue="Python.strings" />
-        <item itemvalue="Python.operator_del" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664330510752</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Функция, которая принимает строку фигурных скобок и определяет, допустим ли порядок этой комбинации скобок.">
+      <created>1664396117998</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1664396117998</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -294,6 +301,7 @@
     <MESSAGE value="Закончил на Главе 9, стр.308." />
     <MESSAGE value="Закончил на Главе 9, стр.320." />
     <MESSAGE value="Закончил на Главе 11, стр.375." />
-    <option name="LAST_COMMIT_MESSAGE" value="Закончил на Главе 11, стр.375." />
+    <MESSAGE value="Функция, которая принимает строку фигурных скобок и определяет, допустим ли порядок этой комбинации скобок." />
+    <option name="LAST_COMMIT_MESSAGE" value="Функция, которая принимает строку фигурных скобок и определяет, допустим ли порядок этой комбинации скобок." />
   </component>
 </project>
