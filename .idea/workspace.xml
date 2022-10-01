@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Функция, которая принимает строку фигурных скобок и определяет, допустим ли порядок этой комбинации скобок.">
-      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter12/operator_if/multiple_branches.py" afterDir="false" />
+    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Глава 12, стр.404.">
+      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter12/operator_if/ternary_expression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter13/break_continue/else_structure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter13/break_continue/operator_pass.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +51,8 @@
       <recent name="D:\Projects\PythonWorkouts\lutz\learning_python\exercises\part1\task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.multiple_branches">
-    <configuration name="files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.else_structure">
+    <configuration name="else_structure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonWorkouts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,32 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/exercises/part2/task11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter13/break_continue" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/exercises/part2/task11/files.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="immutable_types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonWorkouts" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/exercises/part2/task9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/exercises/part2/task9/immutable_types.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter13/break_continue/else_structure.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="operator_pass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonWorkouts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +102,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/exercises/part2/task8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter13/break_continue" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/exercises/part2/task8/strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter13/break_continue/operator_pass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ternary_expression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonWorkouts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter12/operator_if" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter12/operator_if/ternary_expression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.else_structure" />
+        <item itemvalue="Python.operator_pass" />
+        <item itemvalue="Python.ternary_expression" />
         <item itemvalue="Python.multiple_branches" />
         <item itemvalue="Python.valid_braces" />
-        <item itemvalue="Python.files" />
-        <item itemvalue="Python.immutable_types" />
-        <item itemvalue="Python.strings" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664396117998</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Глава 12, стр.404.">
+      <created>1664478018266</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1664478018266</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,6 +311,7 @@
     <MESSAGE value="Закончил на Главе 9, стр.320." />
     <MESSAGE value="Закончил на Главе 11, стр.375." />
     <MESSAGE value="Функция, которая принимает строку фигурных скобок и определяет, допустим ли порядок этой комбинации скобок." />
-    <option name="LAST_COMMIT_MESSAGE" value="Функция, которая принимает строку фигурных скобок и определяет, допустим ли порядок этой комбинации скобок." />
+    <MESSAGE value="Глава 12, стр.404." />
+    <option name="LAST_COMMIT_MESSAGE" value="Глава 12, стр.404." />
   </component>
 </project>
