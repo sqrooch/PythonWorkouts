@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Глава 13, стр.417.">
-      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter13/writing_techniques/parallel_detour.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter13/writing_techniques/shuffling_sequences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter14/list_inclusions/some_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter14/list_inclusions/with_files.py" afterDir="false" />
+    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Глава 14, стр.457.">
+      <change afterPath="$PROJECT_DIR$/algorithms/from_decimal_to_any.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lutz/learning_python/exercises/part3/task1/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lutz/learning_python/exercises/part3/task2/task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting_algorithms/sieve_of_eratosthenes.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sieve_of_eratosthenes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +52,8 @@
       <recent name="D:\Projects\PythonWorkouts\lutz\learning_python\exercises\part1\task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.with_files">
-    <configuration name="else_structure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.task2">
+    <configuration name="from_decimal_to_any" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonWorkouts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,32 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter13/break_continue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sorting_algorithms" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter13/break_continue/else_structure.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="operator_pass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonWorkouts" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter13/break_continue" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter13/break_continue/operator_pass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sorting_algorithms/from_decimal_to_any.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shuffling_sequences" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonWorkouts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +103,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter13/writing_techniques" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/exercises/part3/task1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter13/writing_techniques/shuffling_sequences.py" />
+      <option name="SCRIPT_NAME" value="D:\Projects\PythonWorkouts\lutz\learning_python\exercises\part3\task1\task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonWorkouts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/exercises/part3/task2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/exercises/part3/task2/task2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task2" />
+        <item itemvalue="Python.task1" />
+        <item itemvalue="Python.from_decimal_to_any" />
         <item itemvalue="Python.with_files" />
         <item itemvalue="Python.parallel_detour" />
-        <item itemvalue="Python.shuffling_sequences" />
-        <item itemvalue="Python.else_structure" />
-        <item itemvalue="Python.operator_pass" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664606159157</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Глава 14, стр.457.">
+      <created>1664906731793</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1664906731793</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,6 +328,7 @@
     <MESSAGE value="Функция, которая принимает строку фигурных скобок и определяет, допустим ли порядок этой комбинации скобок." />
     <MESSAGE value="Глава 12, стр.404." />
     <MESSAGE value="Глава 13, стр.417." />
-    <option name="LAST_COMMIT_MESSAGE" value="Глава 13, стр.417." />
+    <MESSAGE value="Глава 14, стр.457." />
+    <option name="LAST_COMMIT_MESSAGE" value="Глава 14, стр.457." />
   </component>
 </project>
