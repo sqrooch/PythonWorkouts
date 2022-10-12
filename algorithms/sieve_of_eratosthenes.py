@@ -29,3 +29,4 @@ def sieve_of_eratosthenes(n):
 
 userInput = int(input("\nEnter here the upper limit of the range to find the number of all primes in it: "))
 print(f"\nThere are {sieve_of_eratosthenes(userInput)} primes in the range you suggested.")
+
