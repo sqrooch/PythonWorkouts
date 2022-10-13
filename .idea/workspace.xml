@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Сменил название директория на &quot;algorithms&quot;.">
-      <change afterPath="$PROJECT_DIR$/lutz/learning_python/exercises/part3/task3/task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lutz/learning_python/exercises/part3/task4/power.py" afterDir="false" />
+    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Закончил Часть III.">
+      <change afterPath="$PROJECT_DIR$/codewars/2022/1012/can_you_get_the_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars/2022/1012/node.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +50,8 @@
       <recent name="D:\Projects\PythonWorkouts\lutz\learning_python\exercises\part1\task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.power">
-    <configuration name="from_decimal_to_any" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.node_class">
+    <configuration name="can_you_get_the_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonWorkouts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +59,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sorting_algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codewars/2022/1012" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sorting_algorithms/from_decimal_to_any.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars/2022/1012/can_you_get_the_loop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="node_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonWorkouts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codewars/2022/1012" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars/2022/1012/node_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,27 +106,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/exercises/part3/task4/power.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonWorkouts" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/exercises/part3/task1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Projects\PythonWorkouts\lutz\learning_python\exercises\part3\task1\task1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.node_class" />
+        <item itemvalue="Python.can_you_get_the_loop" />
         <item itemvalue="Python.power" />
         <item itemvalue="Python.task3" />
         <item itemvalue="Python.task2" />
-        <item itemvalue="Python.task1" />
-        <item itemvalue="Python.from_decimal_to_any" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665589697203</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Закончил Часть III.">
+      <created>1665595769259</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1665595769259</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -348,8 +355,8 @@
     <MESSAGE value="Глава 12, стр.404." />
     <MESSAGE value="Глава 13, стр.417." />
     <MESSAGE value="Глава 14, стр.457." />
-    <MESSAGE value="Закончил Часть III." />
     <MESSAGE value="Сменил название директория на &quot;algorithms&quot;." />
-    <option name="LAST_COMMIT_MESSAGE" value="Сменил название директория на &quot;algorithms&quot;." />
+    <MESSAGE value="Закончил Часть III." />
+    <option name="LAST_COMMIT_MESSAGE" value="Закончил Часть III." />
   </component>
 </project>
