@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Определить длину петли узла.">
-      <change afterPath="$PROJECT_DIR$/algorithms/fill_stack_10.py" afterDir="false" />
+    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Добавил описание алгоритма.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/from_decimal_to_any.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/from_decimal_to_any.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sieve_of_eratosthenes.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sieve_of_eratosthenes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
       <recent name="D:\Projects\PythonWorkouts\lutz\learning_python\exercises\part1\task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fill_stack_10">
+  <component name="RunManager" selected="Python.sieve_of_eratosthenes">
     <configuration name="can_you_get_the_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonWorkouts" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sieve_of_eratosthenes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonWorkouts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/exercises/part3/task3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/exercises/part3/task3/task3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/sieve_of_eratosthenes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sieve_of_eratosthenes" />
         <item itemvalue="Python.fill_stack_10" />
         <item itemvalue="Python.node_class" />
         <item itemvalue="Python.can_you_get_the_loop" />
         <item itemvalue="Python.power" />
-        <item itemvalue="Python.task3" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +328,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665660808511</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="простой алгоритм, который имитирует обычное поведение стэка.">
+      <created>1665913924799</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1665913924799</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Добавил описание алгоритма.">
+      <created>1665913961848</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1665913961848</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -365,6 +378,8 @@
     <MESSAGE value="Сменил название директория на &quot;algorithms&quot;." />
     <MESSAGE value="Закончил Часть III." />
     <MESSAGE value="Определить длину петли узла." />
-    <option name="LAST_COMMIT_MESSAGE" value="Определить длину петли узла." />
+    <MESSAGE value="простой алгоритм, который имитирует обычное поведение стэка." />
+    <MESSAGE value="Добавил описание алгоритма." />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил описание алгоритма." />
   </component>
 </project>

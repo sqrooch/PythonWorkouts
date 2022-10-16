@@ -16,7 +16,7 @@ def sieve_of_eratosthenes(n):
     for i in range(2, n + 1):
         if primes_highlighter[i]:
             primes_counter += 1
-            for j in range(2 * i, n + 1, i):
+            for j in range(i ** 2, n + 1, i):
                 primes_highlighter[j] = False
 
     print("\nYou have the following array of primes in your chosen range: ")
