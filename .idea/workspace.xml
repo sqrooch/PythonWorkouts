@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Алгоритм рекурсивной функции, который рисует фрактал из квадратов.">
-      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter17/nested_functions/closures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter17/nested_functions/nested_functions_examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter17/nested_functions/saving_states.py" afterDir="false" />
+    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Глава 17. Функции.">
+      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter19/recursive_functions/summation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +49,7 @@
       <recent name="D:\Projects\PythonWorkouts\lutz\learning_python\exercises\part1\task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.saving_states">
+  <component name="RunManager" selected="Python.summation">
     <configuration name="closures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonWorkouts" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simple_sorting_algorithms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="summation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonWorkouts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter19/recursive_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/simple_sorting_algorithms.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lutz/learning_python/examples/chapter19/recursive_functions/summation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.summation" />
         <item itemvalue="Python.saving_states" />
         <item itemvalue="Python.closures" />
         <item itemvalue="Python.nested_functions_examples" />
         <item itemvalue="Python.fractal_rectangle_algorithm" />
-        <item itemvalue="Python.simple_sorting_algorithms" />
       </list>
     </recent_temporary>
   </component>
@@ -372,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666118130671</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Глава 17. Функции.">
+      <created>1666124888813</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1666124888813</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -388,7 +393,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Прочитал первую часть книги. Выполнил базовые задания." />
     <MESSAGE value="Проработал примеры из четвёртой главы." />
     <MESSAGE value="Закончил Главу 4. Остановился на стр. 166." />
     <MESSAGE value="Закончил на Главе 5, стр.179." />
@@ -413,7 +417,8 @@
     <MESSAGE value="Оптимизировал алгоритм, заменив во вложенном цикле 2*i на i**2." />
     <MESSAGE value="Изучаю алгоритмы простой сортировки." />
     <MESSAGE value="Алгоритм рекурсивной функции, который рисует фрактал из квадратов." />
-    <option name="LAST_COMMIT_MESSAGE" value="Алгоритм рекурсивной функции, который рисует фрактал из квадратов." />
+    <MESSAGE value="Глава 17. Функции." />
+    <option name="LAST_COMMIT_MESSAGE" value="Глава 17. Функции." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
