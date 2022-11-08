@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Глава 17. Функции.">
-      <change afterPath="$PROJECT_DIR$/lutz/learning_python/examples/chapter19/recursive_functions/summation.py" afterDir="false" />
+    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Глава 19. Рекурсия.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -377,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666124888813</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Глава 19. Рекурсия.">
+      <created>1666534536789</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1666534536789</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -393,7 +399,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Проработал примеры из четвёртой главы." />
     <MESSAGE value="Закончил Главу 4. Остановился на стр. 166." />
     <MESSAGE value="Закончил на Главе 5, стр.179." />
     <MESSAGE value="Закончил на Главе 5, стр.195." />
@@ -418,7 +423,8 @@
     <MESSAGE value="Изучаю алгоритмы простой сортировки." />
     <MESSAGE value="Алгоритм рекурсивной функции, который рисует фрактал из квадратов." />
     <MESSAGE value="Глава 17. Функции." />
-    <option name="LAST_COMMIT_MESSAGE" value="Глава 17. Функции." />
+    <MESSAGE value="Глава 19. Рекурсия." />
+    <option name="LAST_COMMIT_MESSAGE" value="Глава 19. Рекурсия." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
