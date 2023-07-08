@@ -10,8 +10,7 @@ while x != 0:
     stack[top] = x
     top += 1
     x = int(input('Please, enter a number here and press Enter: '))
-
-print(stack)
+    print(stack)
 
 for k in range(len(stack) - 1, -1, -1):
     print(stack[k], end=' ')
