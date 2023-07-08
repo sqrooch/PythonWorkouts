@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Изменил структуру проекта.">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonWorkouts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonWorkouts.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2021/fill_stack_10.py" beforeDir="false" />
-    </list>
+    <list default="true" id="117cc963-55a3-4901-bfd6-c6967e722246" name="Changes" comment="Изменил структуру проекта." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -418,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688780024073</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Изменил структуру проекта.">
+      <created>1688782255225</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1688782255225</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
